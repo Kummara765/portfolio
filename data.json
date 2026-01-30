@@ -18,7 +18,7 @@
             },
             {
                 "label": "LinkedIn",
-                "value": "https://www.linkedin.com/in/jithendrareddypunuru/",
+                "value": "https://www.linkedin.com/in/kummarasukanya/",
                 "icon": "https://img.icons8.com/color/48/linkedin.png",
                 "category": "LinkedIn"
             }
@@ -40,15 +40,15 @@
     },
     "experience": [
         {
-            "role": "Software Engineer (BI & Automation)",
-            "company": "Svarapps Technologies Pvt Ltd",
-            "date": "Sep 2024 - Present",
+            "role": "Associate Analyst(BI & Automation)",
+            "company": "Netscribes Data & Inisghts Pvt Ltd(FLIPKART PVT LTD-ONSITE)",
+            "date": "Dec 2024 - Present",
             "description": "• Delivered 8+ high-impact Power BI dashboards across Finance, Sales, Logistics, and Operations, improving management decision-making and financial visibility.\n• Built and optimized end-to-end data pipelines (Oracle -> SharePoint -> Power BI) using Python and automation, reducing manual effort and improving data reliability.\n• Enhanced reporting performance by optimizing data models and refresh logic, achieving faster refresh times and more responsive dashboards.\n• Developed automation and AI solutions using Copilot Studio, Logic Apps, and AI Builder to enable self-service insights, automate invoice processing, and streamline file management.\n• Drove cost optimization by introducing Excel-based reporting alternatives, reducing dependency on premium BI licensing without sacrificing insights."
         },
         {
             "role": "Data Analyst Intern",
             "company": "AI Varient",
-            "date": "Nov 2023 - Apr 2024",
+            "date": "Nov 2023 - June 2024",
             "description": "• Generated Reports and Dashboards using Power-Bi Desktop, Tableau, and Advanced Excel.\n• Constructed tabular and multidimensional data models.\n• Created compelling data visualizations from live & extract data sources.\n• Processed and shaped data using Excel, MySQL and advanced extraction techniques.\n• Completed two projects during a 6-month internship, demonstrating proficiency in data analytics and visualization."
         }
     ],
